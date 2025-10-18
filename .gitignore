@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+*.pyc
+
+# Project
+data/
+results/
+figures/*.png
+*.csv
+*.xlsx
